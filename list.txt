@@ -1,0 +1,10 @@
+FFmpeg: https://git.ffmpeg.org/ffmpeg.git
+binutils
+libtiff
+OpenJPEG
+FreeType2
+
+
+libming
+libarchive
+Poppler
